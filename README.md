@@ -3,7 +3,7 @@
 # Hi 👋 I'm Mahad Farooq
 
 Software engineering student at Western University  
-I like building useful products and actually shipping them.
+I like building useful products that solve my problems and shipping them to solve yours too.
 
 </div>
 
@@ -11,7 +11,7 @@ I like building useful products and actually shipping them.
 
 I've been programming since I was 12. These days, I work across full-stack development, AI, machine learning, and data science.
 
-Most of what I know comes from building things end to end, from an empty repository to something real people use.
+Most of what I know comes from tinkering with codebases, building things end to end, and turning a empty repository to something real people use.
 
 ## What I'm Building
 
@@ -19,7 +19,7 @@ Most of what I know comes from building things end to end, from an empty reposit
 
 [CasperCoach](https://www.mahadfarooq.com/caspercoach) is an AI-powered CASPer test-prep platform used by 5,700+ medical school applicants.
 
-I built the product from scratch, including the platform, AI scoring, payments, and deployment. So far, it has generated over $12K in revenue.
+I built the product from scratch, including the platform, AI scoring, payments, and deployment. So far, it has been a profitable journey and loved seeing my software actually help someone.
 
 ### Other Projects
 
@@ -32,9 +32,9 @@ I've also built:
 
 ## Outside of Code
 
-Before focusing fully on software, I worked in social media growth, building accounts from zero to more than 100K followers and 50M views.
+Before focusing fully on software, I worked in social media growth, building accounts from zero to more than 100K followers and 50M views for startups.
 
-I'm interested in the full picture: engineering, product, design, business, and how good ideas reach people.
+That really help me understand how building products starts with people, and how to incorporate that into the engineering, product, and design.
 
 ## Connect
 
