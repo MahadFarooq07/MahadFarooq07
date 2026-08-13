@@ -19,7 +19,7 @@ Most of what I know comes from tinkering with codebases, building things end to 
 
 [CasperCoach](https://www.mahadfarooq.com/caspercoach) is an AI-powered CASPer test-prep platform used by 5,700+ medical school applicants.
 
-I built the product from scratch, including the platform, AI scoring, payments, and deployment. So far, it has been a profitable journey and loved seeing my software actually help someone.
+I built the product from scratch while in highschool. So far, it has been a profitable journey and loved seeing my software actually help someone.
 
 ### Other Projects
 
