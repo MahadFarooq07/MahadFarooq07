@@ -25,10 +25,10 @@ I built the product from scratch while in highschool. So far, it has been a prof
 
 I've also built:
 
+- A Ai-"slack" where agents are the team members (Open Source Project Contribution) [FreeFlow](https://freeflow.im/)
 - An ML-powered [anti-fraud engine](https://www.mahadfarooq.com/anti-fraud-engine)
 - A clean and reliable [VIN decoder](https://www.mahadfarooq.com/vin-decoder)
 - A real-time [hospital asset-tracking system](https://www.mahadfarooq.com/asset-tracking-parkwood)
-- A Python email deliverability tool
 
 ## Outside of Code
 
