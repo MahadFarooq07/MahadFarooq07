@@ -2,7 +2,6 @@
 
 # Hi 👋 I'm Mahad Farooq
 
-Software engineering student at Western University  
 I like building useful products that solve my problems and shipping them to solve yours too.
 
 </div>
