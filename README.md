@@ -16,9 +16,9 @@ Most of what I know comes from tinkering with codebases, building things end to 
 
 ### CasperCoach
 
-[CasperCoach](https://www.mahadfarooq.com/caspercoach) is an CASPer test-prep platform used by 5,700+ medical school applicants.
+[CasperCoach](https://www.caspercoach.org/) is an CASPer test-prep platform used by 5,700+ medical school applicants.
 
-I built the product from scratch while in highschool. So far, it has been a profitable journey and loved seeing my software actually help someone.
+I built the product from scratch while in highschool. So far, it I've been able to get to the 5-fig revenue mark, and loved getting the chance to see it actually help people.
 
 ### Other Projects
 
