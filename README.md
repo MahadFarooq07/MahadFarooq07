@@ -8,7 +8,7 @@ I like building useful products that solve my problems and shipping them to solv
 
 ## About Me
 
-I've been programming since I was 12. These days, I work across full-stack development, AI, machine learning, and data science.
+I started programming at 12 messing around with Arudinos and loved the programming aspect of it. These days, I work across full-stack development, AI, machine learning, and data science.
 
 Most of what I know comes from tinkering with codebases, building things end to end, and turning a empty repository to something real people use.
 
@@ -31,7 +31,7 @@ I've also built:
 
 ## Outside of Code
 
-Before focusing fully on software, I worked in social media growth, building accounts from zero to more than 100K followers and 50M views for startups.
+Before focusing fully on software, I worked in social media growth, building accounts from zero to more than 200K followers and 50M views for startups.
 
 That really help me understand how building products starts with people, and how to incorporate that into the engineering, product, and design.
 
